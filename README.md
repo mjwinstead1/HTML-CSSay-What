@@ -1,4 +1,16 @@
-HTML-CSSay-What
-===============
-<! just a note to myself to remember to try and figure this out>
-<h1>running down the road</h1>
+<html>
+
+<head>
+<style>
+  body {background-color:#F5F5DC}
+  h1   {color:blue}
+  p    {color:green}
+</style>
+</head>
+
+<body>
+  <h1>About Me</h1>
+  <p>I'm a guy and I code and stuff</p>
+</body>
+
+</html>
