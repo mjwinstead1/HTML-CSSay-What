@@ -19,14 +19,12 @@ HTML-CSSay-What
         </ul>
       </div>
     </div>
-
     <div class="jumbotron">
       <div class="container">
         <h1>Find a place to stay.</h1>
         <p>Rent from people in over 34,000 cities and 192 countries.</p>
       </div>
     </div> 
-
     <div class="learn-more">
 	  <div>
 		<div>
